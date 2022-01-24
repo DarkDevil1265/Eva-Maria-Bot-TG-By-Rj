@@ -139,3 +139,9 @@ This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](h
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkDevil1265/new-eva-ann-too)
 
+
+
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDarkDevil1265%2Fnew-eva-ann-too&envs=ADMINS%2CAPI_HASH%2CAPI_ID%2CBOT_TOKEN%2CDATABASE_URI%2CLOG_CHANNEL%2CPICS%2CUPSTREAM_REPO&ADMINSDesc=Username+or+ID+of+Admin.+Separate+multiple+Admins+by+space.&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&BOT_TOKENDesc=Your+bot+token.&DATABASE_URIDesc=mongoDB+URI.+Get+this+value+from+https%3A%2F%2Fwww.mongodb.com&LOG_CHANNELDesc=Bot+Logs%2CGive+a+channel+id+with+-100xxxxxxx&PICSDesc=Add+some+telegraph+link+of+pictures&UPSTREAM_REPODesc=YOUR+FORK+LINK)
+
