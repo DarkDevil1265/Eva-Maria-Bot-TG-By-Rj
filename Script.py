@@ -15,7 +15,7 @@ class script(object):
 - Source code not available now 
 
 <b>DEVS:</b>
-- <a href=https://t.me/Movvie_Hall>Movie Hall</a>"""
+- <a href=https://t.me/Cine_maKotta>Cinema Kotta</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
