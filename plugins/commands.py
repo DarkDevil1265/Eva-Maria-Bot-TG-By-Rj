@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 𝐆𝐑𝐔𝐎𝐏', url='https://t.me/cine_makotta')
+                InlineKeyboardButton('🤖 𝐆𝐑𝐎𝐔𝐏', url='https://t.me/cine_makotta')
             ],
             [
                 InlineKeyboardButton('ℹ️ 𝐇𝐄𝐋𝐏', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐀 𝐂𝐇𝐀𝐓 𝐆𝐑𝐔𝐎𝐏 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝐈𝐍𝐋𝐈𝐍𝐄 𝐅𝐈𝐋𝐌𝐒', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 𝐆𝐑𝐔𝐎𝐏', url='https://t.me/cine_makotta')
+            InlineKeyboardButton('🤖 𝐆𝐑𝐎𝐔𝐏', url='https://t.me/cine_makotta')
             ],[
             InlineKeyboardButton('ℹ️ 𝐇𝐄𝐋𝐏', callback_data='help'),
             InlineKeyboardButton('😊 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
@@ -67,7 +67,7 @@ async def start(client, message):
         btn = [
             [
                 InlineKeyboardButton(
-                    "🤖 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐁𝐃𝐀𝐓𝐄 𝐆𝐑𝐔𝐎𝐏", url=invite_link.invite_link
+                    "🤖 𝐉𝐎𝐈𝐍 𝐌𝐘 𝐔𝐏𝐃𝐀𝐓𝐄 𝐆𝐑𝐎𝐔𝐏", url=invite_link.invite_link
                 )
             ]
         ]
@@ -88,7 +88,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐂𝐇𝐀𝐓 𝐆𝐑𝐔𝐎𝐏 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 𝐈𝐍𝐋𝐈𝐍𝐄 𝐅𝐈𝐋𝐌𝐒', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 𝐆𝐑𝐔𝐎𝐏', url='https://t.me/cine_makotta')
+            InlineKeyboardButton('🤖 𝐆𝐑𝐎𝐔𝐏', url='https://t.me/cine_makotta')
             ],[
             InlineKeyboardButton('ℹ️ 𝐇𝐄𝐋𝐏', callback_data='help'),
             InlineKeyboardButton('😊 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
