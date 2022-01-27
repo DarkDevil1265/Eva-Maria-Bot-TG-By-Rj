@@ -63,11 +63,7 @@
             "required": false
         },
         "COLLECTION_NAME": {
-            "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
-        },
-        "VID_SEARCH": {
-            "description": "Should bot search for video files in channels ( Give 'yes' or 'no' )",
-            "value": "no"
+            "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot"
       
             "value": "Telegram_files",
             "required": false
