@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg" alt="DON Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Don Bot</b>
 </h1>
 
 
